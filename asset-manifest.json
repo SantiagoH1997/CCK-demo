@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CCK-demo/static/css/main.e090879b.chunk.css",
+    "main.js": "/CCK-demo/static/js/main.9fc4c7d4.chunk.js",
+    "main.js.map": "/CCK-demo/static/js/main.9fc4c7d4.chunk.js.map",
+    "runtime~main.js": "/CCK-demo/static/js/runtime~main.c3ae1c9c.js",
+    "runtime~main.js.map": "/CCK-demo/static/js/runtime~main.c3ae1c9c.js.map",
+    "static/js/2.270be295.chunk.js": "/CCK-demo/static/js/2.270be295.chunk.js",
+    "static/js/2.270be295.chunk.js.map": "/CCK-demo/static/js/2.270be295.chunk.js.map",
+    "index.html": "/CCK-demo/index.html",
+    "precache-manifest.b6182e7838b4a77672c12467ca1c51c7.js": "/CCK-demo/precache-manifest.b6182e7838b4a77672c12467ca1c51c7.js",
+    "service-worker.js": "/CCK-demo/service-worker.js",
+    "static/css/main.e090879b.chunk.css.map": "/CCK-demo/static/css/main.e090879b.chunk.css.map"
+  }
+}
